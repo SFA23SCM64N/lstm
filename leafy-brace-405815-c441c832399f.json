@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "leafy-brace-405815",
+  "private_key_id": "c441c832399f1013e0099a45d3ce5dd59406d09a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCuU8+J856QRpXz\nQzmw9XVx3oXZ3e8vytUnVVYiaWpYyZ2vtaYc7nqzBWsjcgqWkV5+4o3YEbU7HpxM\nme1w8osS4ASLxF37HeDrRQ35XfB9L/g6PQEDFi3ZOarSznE/lpuabjPIk9q6lg5G\ncyfyhulg6qT99WDSzTp8Zm0CoeQaa89EJKFhVyjMBdNXjBnrkPPAbfPAJ6Ds/Sd7\nxRTCuWhRbA2iIUz7kYnKr2Y5myHHNBO6hx0m4Yt6Cgfp3qZ/weNkGPPEc88oD5kL\n7ippSNtO8bfD5O1oLPch6SiiTX9/R4AV4w3EK91XNnyNrNqNmKi8AafXFt2ngSon\nOyAjBemNAgMBAAECggEAHCfOKnjjSxMTb0A+0PK8CWxIEGQ/bZJ5cx+zHd4KaT+w\nTQDuIi3EOdDDY+ysgsgEy+0vEqQ9h0hjichcqJ7hJmccZNnjgfDqnaUVY4lavlAL\n6+q5afRgQFLc4QJVw9BBM86JD464cjqqdedtyXElFVxLJ0yahZbUU44+x1Y6tKd2\nX7L+H8aPs9xzft1eyd+EcpD9UuqRwn9qCcYfI7luFqQgn8137jCegKLaBePvRfbY\nTraHAb386jdNKoZDHrsESmb8JTrCIb0KbWmthWqmnrOs2RV8JSo0gMX7QGTnM6O0\n1eFn5T/EMHF9IgqZSvPhZrtyBbZyFZ3CVXScHiO+IwKBgQDVseGdtwqCKb4X8gwU\nXQqyKoT9cIRyWMaBdh6excUkbieOBhVFFh4CyLufPB7DB/s9+k5mbw3BRVoNSYiz\nJzCGxmGq/U4ut+kyY7T5u+Kl4oLfnmz9IckUko6Wz6J3bBj8i5MtZWiSHfj6yrkU\n6I/8TNi8a6yvyPv8e6fwFqRM0wKBgQDQ1sZMOTQL8vSX+BeJU2hVvwn/jFd6F7nr\nM0W8pmBTo46/786vxsVNV9WqnmOnDVamMEb1Ls3gcYqEuNE5j5IM8VnZrznL+ecW\nWJoejllSKNju2rcLk6qn6iFuP729o4sd6yc2v8d+3Nv3//qWnE+QoEzvDTmURftS\nbVOlfct0HwKBgQDVi3vNkoPCzRn0beIaW1v77TeW2GDSr9o2tyYkPbgjDp0idPu+\nXTrCR3wOxRJsjUZJih/chy+0qqwxyQD9HrWEiSxCpf0B/LDhtPe99D6qzK9B7dw2\nHRQHJemt1XIiaviRLp116PfVxHPxkrHfrgNs+hJAQE2CIJOHnL6W0tl/FwKBgFrG\nsMVbLBNxlP4lud1YYwa6lpb9It0QSSFCVTLOQxq4AonNrFLdnM+kuVyDop9vfdWZ\nMI7MvHKuB97vEwrpLDvyAPNNZlsSkm81LjDQAWVkGf+hFGW01z5L2CI7FLfEyejE\nWXRD4mxzhi4Dl6I16aPc+fQDFJ8t2DOZD/3kczZTAoGAYbz1OmSBkUmNnuIu2I2I\nRDZqMksHyvx1VOBloSHFQLw3oUxmANzhkZsRAXBb7bp04UHOg14aMYMn8u5f53b7\npofJEdzyxv8q7f5u7CO0qNOBTyIwv7eiZlfDR+JUjnIOkQWJuCxT3A/U9bxPA2kd\nsAJJ+s2xZ6K0ltIjNjTLkNs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lstm-service-account@leafy-brace-405815.iam.gserviceaccount.com",
+  "client_id": "117460767231882488753",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lstm-service-account%40leafy-brace-405815.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
